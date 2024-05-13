@@ -1,7 +1,7 @@
 # Project Title: Relational Database Concepts
 
 ## Introduction
-This repository illustrates the full lifecycle of a database design project, grounded in the relational model as initially proposed by Edgar F. Codd. It includes the conceptual design of the miniworld, Entity-Relationship modeling, conversion to Codd's relational schema, and the physical implementation in SQL.
+This repository illustrates the full lifecycle of a database design project, grounded in the relational model as initially proposed by Edgar F. Codd. It includes the conceptual design of the miniworld, Entity-Relationship modeling, conversion to Codd's relational schema,creation of a table to represent the metadata and the physical implementation in SQL.
 
 ## Database Design Phases
 
@@ -14,7 +14,7 @@ The first phase involves understanding the requirements from the client and crea
 - **Outcome**: An ER diagram that provides a high-level, technology-agnostic overview of data organization.
 
 ### Phase 2: Logical Design
-This phase translates the ER model from the conceptual design into a logical data model that adheres to specific database management system rules. This involves defining tables, keys, and constraints based on Codd’s relational model.
+This phase translates the ER model from the conceptual design into a logical data model that adheres to specific database management system rules. This involves defining tables, keys, and constraints based on Codd’s relational model.Additionally , the metadata for the physical implementation is also created to facilitate the implementation.
 
 #### Data Relational Model Proposed by Codd
 - **Principles**: Focus on tables (relations), rows (tuples), and columns (attributes).
