@@ -1,7 +1,8 @@
 #  Relational Database Concepts
 
 ## Introduction
-This repository illustrates the full lifecycle of a database design project, grounded in the relational model as initially proposed by Edgar F. Codd. It includes the conceptual design of the miniworld, Entity-Relationship modeling, conversion to Codd's relational schema,creation of a table to represent the metadata and the physical implementation in SQL.
+This repository illustrates the full lifecycle of a database design project which aims to implement a gym database, grounded in the relational model as initially proposed by Edgar F. Codd. It includes the conceptual design of the miniworld, Entity-Relationship modeling, conversion to Codd's relational schema,creation of a table to represent the metadata and the physical implementation in SQL.
+![Design Steps](Project-Cycles.png)
 
 ## Database Design Phases
 
